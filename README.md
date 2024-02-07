@@ -1,6 +1,6 @@
 # MyLunch - Best Food Delivery for your Commerce
 
-Built with the Next.js 13.5 Expo, Expo Router, React Native, TypeScript & Tailwind
+Built with the Expo, Expo Router, React Native, TypeScript & Tailwind
 
 <img src="./assets/thumbnail.png" alt="Project Image" width="300" height="600">
 
