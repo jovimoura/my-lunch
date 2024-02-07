@@ -2,7 +2,7 @@
 
 Built with the Next.js 13.5 Expo, Expo Router, React Native, TypeScript & Tailwind
 
-![Project Image](./assets/thumbnail.png){ width=12.75rem height=20.25rem }
+<img src="./assets/thumbnail.png" alt="Project Image" width="300" height="600">
 
 ## Features
 
