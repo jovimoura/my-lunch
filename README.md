@@ -1,4 +1,4 @@
-# MyLunch - Best Food Delivery for your Commerce
+# MyLunch - The Best Food Delivery for your Commerce
 
 Built with the Expo, Expo Router, React Native, TypeScript & Tailwind
 
