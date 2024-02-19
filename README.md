@@ -2,7 +2,7 @@
 
 Built with the Expo, Expo Router, React Native, TypeScript & Tailwind
 
-<img src="./assets/thumbnail.png" alt="Project Image" width="300" height="600">
+<img src="./assets/thumbnail.png" alt="Project Image" height="450">
 
 ## Features
 
